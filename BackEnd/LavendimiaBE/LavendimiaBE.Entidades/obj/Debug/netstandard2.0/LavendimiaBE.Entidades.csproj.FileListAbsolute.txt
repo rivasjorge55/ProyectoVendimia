@@ -1,0 +1,8 @@
+C:\Proyectos\LaVendimia\BackEnd\LavendimiaBE\LavendimiaBE.Entidades\bin\Debug\netstandard2.0\LavendimiaBE.Entidades.deps.json
+C:\Proyectos\LaVendimia\BackEnd\LavendimiaBE\LavendimiaBE.Entidades\bin\Debug\netstandard2.0\LavendimiaBE.Entidades.dll
+C:\Proyectos\LaVendimia\BackEnd\LavendimiaBE\LavendimiaBE.Entidades\bin\Debug\netstandard2.0\LavendimiaBE.Entidades.pdb
+C:\Proyectos\LaVendimia\BackEnd\LavendimiaBE\LavendimiaBE.Entidades\obj\Debug\netstandard2.0\LavendimiaBE.Entidades.AssemblyInfoInputs.cache
+C:\Proyectos\LaVendimia\BackEnd\LavendimiaBE\LavendimiaBE.Entidades\obj\Debug\netstandard2.0\LavendimiaBE.Entidades.AssemblyInfo.cs
+C:\Proyectos\LaVendimia\BackEnd\LavendimiaBE\LavendimiaBE.Entidades\obj\Debug\netstandard2.0\LavendimiaBE.Entidades.dll
+C:\Proyectos\LaVendimia\BackEnd\LavendimiaBE\LavendimiaBE.Entidades\obj\Debug\netstandard2.0\LavendimiaBE.Entidades.pdb
+C:\Proyectos\LaVendimia\BackEnd\LavendimiaBE\LavendimiaBE.Entidades\obj\Debug\netstandard2.0\LavendimiaBE.Entidades.csprojAssemblyReference.cache
